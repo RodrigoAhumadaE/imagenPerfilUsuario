@@ -31,6 +31,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   margin-top: 2%;
+  justify-content: center;
 }
 
 .card {
@@ -45,7 +46,7 @@ body {
   align-items: center;
   justify-content: space-evenly;
   padding-top: 10px;
-  font-size: 1em;
+  font-size: 0.8em;
   /* transition: all 100ms; */
   border-radius: 15px;
 }
